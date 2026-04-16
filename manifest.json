@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "PyCQA",
+  "repo": "autoflake",
+  "versions": [
+    {
+      "commit": "988e469555a54b0b16e39faf16ae84ff247fd337",
+      "parsed_at": "2026-04-16T09:32:04.509293+00:00",
+      "tag": "v2.3.3",
+      "filetree": "filetree/988e469555a54b0b16e39faf16ae84ff247fd337.nq.gz",
+      "blobs": [
+        "blob/f6f87a3ab2bff090801342868a4456654765d968.nq.gz",
+        "blob/b5922b980a3138fe843bd0fdfd485df140d0c755.nq.gz",
+        "blob/422897aed977b2a6d5b97156f3a85a10586ad4fc.nq.gz",
+        "blob/0b3d9400e150450b8220ccc5327080321ba1dc94.nq.gz",
+        "blob/0252f81d147ab249d01a438795c24ef05c70ac55.nq.gz",
+        "blob/915894de017de4edf50c069ee8ec34ceaefe483b.nq.gz",
+        "blob/73e5153da57f82eed92bd46f00d7907c2a265355.nq.gz",
+        "blob/9b80f4d014629b6fe930df912211b4ce3be476c6.nq.gz",
+        "blob/9abece23002eb81220fa3150ebe4a746bd5ccd82.nq.gz",
+        "blob/fcf28f1fbe5f8585aa6593a8e0b6581bb8961aaf.nq.gz",
+        "blob/eacb0d1d9e51129bdc4f4208582376ff108062a6.nq.gz",
+        "blob/8c7b09949f2b07beeeda1e201ef5e26bfa525ef9.nq.gz",
+        "blob/680f6b8f0e140987902111db0da912c038cac310.nq.gz",
+        "blob/5e704b4949d9f8869ff6b4877e0629112a9ef617.nq.gz",
+        "blob/95a8153f9e10b39e0a3fb897b3370c1eddb9aaea.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
